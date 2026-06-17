@@ -1,12 +1,10 @@
----
-layout: default
-title: Awesome World Models for Aerial Navigation
-description: A curated list of world models, VLA/VLN methods, navigation benchmarks, simulators, and supporting datasets for aerial and UAV navigation.
----
-
 # Awesome World Models for Aerial Navigation
 
-A curated list of world models, VLA/VLN methods, navigation benchmarks, simulators, and supporting datasets for aerial and UAV navigation.
+<p align="center">
+  <img src="/awesome-aerial-world-models.png" alt="Awesome World Models for Aerial Navigation" width="100%">
+</p>
+
+A curated hub for aerial world models and UAV navigation, covering methods, benchmarks, datasets, simulators, and workshops.
 
 **Quick Links:** [Roadmap](#roadmap) · [Tasks](#taxonomy) · [Papers](#papers) · [Benchmarks](#datasets) · [Simulators](#simulators) · [Challenges](#challenges)
 
