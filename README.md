@@ -12,7 +12,6 @@ A curated hub for aerial world models and UAV navigation, covering methods, benc
 
 ## Tasks
 
-> **Included** World models, VLA/VLN models, embodied UAV agents, aerial navigation benchmarks, simulators, and datasets directly useful for aerial navigation.
 
 > **De-emphasized** Pure detection, segmentation, remote sensing, and mapping resources are only listed as supporting data when they help navigation or world-model training.
 
@@ -22,6 +21,24 @@ A curated hub for aerial world models and UAV navigation, covering methods, benc
 | `ImageNav` | Image-goal Navigation | Navigate to a place or view specified by a target image. |
 | `ObjectNav` | Object-goal Navigation | Find a target object, person, vehicle, or rescue target. |
 | `VLN` | Vision-and-Language Navigation | Follow natural-language instructions in aerial scenes. |
+
+
+
+## Aerial Navigation Task Taxonomy
+
+This list prioritizes **aerial world models** and **navigation-centered UAV resources**. Pure detection, segmentation, remote sensing, and mapping works are included only when they directly support navigation, benchmark construction, simulator development, or world-model training.
+
+| Task | Name | Precise Definition |
+| --- | --- | --- |
+| `PointNav` | Point-goal Navigation | The UAV is given a geometric goal, such as a 2D/3D coordinate, waypoint, or relative displacement, and must reach the target location from an unseen start pose using onboard observations and executable motion actions. |
+| `ImageNav` | Image-goal Navigation | The UAV is given a goal image depicting a target place, view, landmark, or object instance, and must navigate to the physical location or viewpoint that matches the image under viewpoint, scale, and appearance changes. |
+| `ObjectNav` | Object-goal Navigation | The UAV is given a semantic object goal, object category, object description, or target instance, and must search for, localize, and stop near the target object in an unseen aerial environment. |
+| `VLN` | Vision-and-Language Navigation | The UAV receives natural-language navigation instructions or goal descriptions and must ground them in visual observations, reason over aerial spatial relations, and execute sequential actions to reach the instructed destination. |
+
+
+
+
+
 
 ---
 
