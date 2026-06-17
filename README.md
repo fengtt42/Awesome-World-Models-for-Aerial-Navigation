@@ -25,9 +25,9 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | `ImageNav` | Image-goal Navigation | The UAV is given a goal image depicting a target place, view, landmark, or object instance, and must navigate to the physical location or viewpoint that matches the image under viewpoint, scale, and appearance changes. |
 | `ObjectNav` | Object-goal Navigation | The UAV is given a semantic object goal, object category, object description, or target instance, and must search for, localize, and stop near the target object in an unseen aerial environment. |
 | `VLN` | Vision-and-Language Navigation | The UAV receives natural-language navigation instructions or goal descriptions and must ground them in visual observations, reason over aerial spatial relations, and execute sequential actions to reach the instructed destination. |
-<p align="center">
+<!-- <p align="center">
   <img src="Tasks.png" alt="Awesome World Models for Aerial Navigation" width="100%">
-</p>
+</p> -->
 
 ---
 
