@@ -44,13 +44,14 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 ## Aerial World Models
 
 | Date | Venue | Paper | Links |
-| 2026-06 | arXiv |  MAD: Mapping-Aware World Models for Agile Quadrotor Flight | [Paper](https://arxiv.org/abs/2606.04534) |
+| --- | --- | --- | --- |
+| 2026-06 | arXiv | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | [Paper](https://arxiv.org/abs/2606.04534) |
 | 2026-06 | arXiv | AirDreamer: Generalist Drone Navigation with World Models | [Paper](https://arxiv.org/abs/2606.03252) |
-| 2026-06 | arXiv | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | [Paper](https://arxiv.org/abs/2606.06147) |
+| 2026-06 | arXiv | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | [Paper](https://arxiv.org/abs/2606.01205) |
 | 2026-06 | arXiv | WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation | [Paper](https://arxiv.org/abs/2606.06147) |
 | 2026-05 | arXiv | DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking | [Paper](https://arxiv.org/abs/2605.17451) |
 | 2026-05 | arXiv | Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls | [Paper](https://arxiv.org/abs/2605.19728) |
-| 2026-05 | arXiv |FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model | [Paper](https://arxiv.org/abs/2605.196) |
+| 2026-05 | arXiv | FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model | [Paper](https://arxiv.org/abs/2605.19600) |
 | 2026-05 | arXiv | WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2605.15964) [Project](https://embodiedcity.github.io/WorldVLN/) |
 | 2025-12 | arXiv | Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space | [Paper](https://arxiv.org/abs/2512.21887) |
 | 2025-09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
