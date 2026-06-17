@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-Papers-b31b1b.svg)](https://arxiv.org/abs/2509.20021)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://arxiv.org/abs/2502.05907)
+
 ---
 
 
@@ -15,6 +16,7 @@ A repository for aerial world models and UAV embodied navigation, covering metho
 **Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#sim)
 
 ---
+
 <a id="tasks"></a>
 ## Aerial Navigation Task
 
