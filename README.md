@@ -8,7 +8,11 @@
   <img src="Overview.png" alt="Awesome World Models for Aerial Navigation" width="100%">
 </p>
 
-A repository for aerial world models and UAV embodied navigation, covering methods, benchmarks, datasets, simulators, and workshops.
+This repo is used for recording, tracking, and benchmarking several recent World Models for Aerial Navigation methods, as a supplement to our [ACM MM 2024 Best Paper Nomination](https://arxiv.org/abs/2408.00606).
+
+If you find some ignored papers, **feel free to _[create pull requests](#)_, or _[open issues](#)_**. Contributions in any form to make this list more comprehensive are welcome. 🫵 🫵 🫵
+
+If you find this repository useful, please consider **giving us a star 🌟 and a [cite](#)**.
 
 **Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#sim)
 
