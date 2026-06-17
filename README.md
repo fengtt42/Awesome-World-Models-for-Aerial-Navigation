@@ -12,7 +12,6 @@ A repository for aerial world models and UAV embodied navigation, covering metho
 
 **Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#sim)
 
----
 
 <a id="tasks"></a>
 ## Aerial Navigation Task
@@ -29,7 +28,6 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
   <img src="Tasks.png" alt="Awesome World Models for Aerial Navigation" width="100%">
 </p> -->
 
----
 
 ## Surveys
 
@@ -80,7 +78,6 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 2023-11 | arXiv | GeoChat: Grounded Large Vision-Language Model for Remote Sensing | [Paper](https://arxiv.org/abs/2311.15826) [Code](https://github.com/mbzuai-oryx/geochat) |
 | 2023-08 | ICCV | AerialVLN: Vision-and-Language Navigation for UAVs | [Paper](https://arxiv.org/abs/2308.06735) [Code](https://github.com/AirVLN/AirVLN) |
 
----
 
 ## Navigation Datasets & Benchmarks
 
