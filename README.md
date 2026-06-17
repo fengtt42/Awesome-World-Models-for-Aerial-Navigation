@@ -1,5 +1,4 @@
 # Awesome World Models for Aerial Navigation
----
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-Papers-b31b1b.svg)](https://arxiv.org/abs/2509.20021)
