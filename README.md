@@ -4,9 +4,9 @@
   <img src="Overview.png" alt="Awesome World Models for Aerial Navigation" width="100%">
 </p>
 
-A curated hub for aerial world models and UAV navigation, covering methods, benchmarks, datasets, simulators, and workshops.
+A repository for aerial world models and UAV embodied navigation, covering methods, benchmarks, datasets, simulators, and workshops.
 
-**Quick Links:** [Roadmap](#roadmap) · [Tasks](#taxonomy) · [Papers](#papers) · [Benchmarks](#datasets) · [Simulators](#simulators) · [Challenges](#challenges)
+**Quick Links:** [Tasks](#taxonomy) · [Surveys](#Surveys) · [Datasets & Benchmarks](#datasets) · [Simulators](#simulators) · [Challenges](#challenges)
 
 ---
 
