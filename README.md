@@ -10,23 +10,9 @@ A curated hub for aerial world models and UAV navigation, covering methods, benc
 
 ---
 
-## Tasks
+## Aerial Navigation Task
 
-
-> **De-emphasized** Pure detection, segmentation, remote sensing, and mapping resources are only listed as supporting data when they help navigation or world-model training.
-
-| Task | Name | Typical Goal |
-| --- | --- | --- |
-| `PointNav` | Point Navigation | Navigate to a coordinate, waypoint, or relative pose. |
-| `ImageNav` | Image-goal Navigation | Navigate to a place or view specified by a target image. |
-| `ObjectNav` | Object-goal Navigation | Find a target object, person, vehicle, or rescue target. |
-| `VLN` | Vision-and-Language Navigation | Follow natural-language instructions in aerial scenes. |
-
-
-
-## Aerial Navigation Task Taxonomy
-
-This list prioritizes **aerial world models** and **navigation-centered UAV resources**. Pure detection, segmentation, remote sensing, and mapping works are included only when they directly support navigation, benchmark construction, simulator development, or world-model training.
+This repository prioritizes **aerial world models** and **UAV embodied navigation**. Pure mapping, detection, segmentation, VQA abd remote sensing works are included only when they directly support embodied navigation, benchmark construction, simulator development, or world-model training.
 
 | Task | Name | Precise Definition |
 | --- | --- | --- |
@@ -36,15 +22,9 @@ This list prioritizes **aerial world models** and **navigation-centered UAV reso
 | `VLN` | Vision-and-Language Navigation | The UAV receives natural-language navigation instructions or goal descriptions and must ground them in visual observations, reason over aerial spatial relations, and execute sequential actions to reach the instructed destination. |
 
 
-
-
-
-
 ---
 
-## Papers
-
-### Surveys & Taxonomies
+## Surveys
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
@@ -53,7 +33,7 @@ This list prioritizes **aerial world models** and **navigation-centered UAV reso
 | 2024-03 | arXiv | World Models for Autonomous Driving: An Initial Survey | [Paper](https://arxiv.org/abs/2403.02622) |
 | 2023-12 | arXiv | Foundation Models in Robotics: Applications, Challenges, and the Future | [Paper](https://arxiv.org/abs/2312.07843) [Repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
 
-### Aerial World Models
+## Aerial World Models
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
@@ -64,7 +44,7 @@ This list prioritizes **aerial world models** and **navigation-centered UAV reso
 | 2025-09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
 | 2025-07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Code](https://github.com/EmbodiedCity/AirScape.code) [Project](https://embodiedcity.github.io/AirScape/) [Dataset](https://huggingface.co/datasets/EmbodiedCity/AirScape-Dataset) |
 
-### Aerial Navigation
+## Aerial Navigation
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
