@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-Papers-b31b1b.svg)](https://arxiv.org/abs/2509.20021)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://arxiv.org/abs/2502.05907)
+---
+
 
 <p align="center">
   <img src="Overview.png" alt="Awesome World Models for Aerial Navigation" width="100%">
