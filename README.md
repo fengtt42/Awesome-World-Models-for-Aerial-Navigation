@@ -10,7 +10,7 @@
 
 A repository for aerial world models and UAV embodied navigation, covering methods, benchmarks, datasets, simulators, and workshops.
 
-**Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#sim) · [Workshops](#WS)
+**Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#sim)
 
 ---
 <a id="tasks"></a>
