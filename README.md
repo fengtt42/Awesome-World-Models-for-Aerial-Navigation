@@ -1,7 +1,7 @@
 # Awesome World Models for Aerial Navigation
 
 <p align="center">
-  <img src="/overview.png" alt="Awesome World Models for Aerial Navigation" width="100%">
+  <img src="Overview.png" alt="Awesome World Models for Aerial Navigation" width="100%">
 </p>
 
 A curated hub for aerial world models and UAV navigation, covering methods, benchmarks, datasets, simulators, and workshops.
