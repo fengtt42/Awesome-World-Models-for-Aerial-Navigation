@@ -1,5 +1,4 @@
 # Awesome World Models for Aerial Navigation
-
 ---
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
