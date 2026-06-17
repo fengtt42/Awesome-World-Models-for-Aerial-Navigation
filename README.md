@@ -6,10 +6,10 @@
 
 A repository for aerial world models and UAV embodied navigation, covering methods, benchmarks, datasets, simulators, and workshops.
 
-**Quick Links:** [Tasks](#taxonomy) · [Surveys](#Surveys) · [Datasets & Benchmarks](#datasets) · [Simulators](#simulators) · [Challenges](#challenges)
+**Quick Links:** [Tasks](#tasks) · [Surveys](#Surveys) · [Aerial World Models](#AWM) · [Aerial Embodied Navigation](#AEN) · [Datasets & Benchmarks](#datasets) · [Simulators](#simulators) · [Workshops](#challenges)
 
 ---
-
+<a id="tasks"></a>
 ## Aerial Navigation Task
 
 This repository prioritizes **aerial world models** and **UAV embodied navigation**. Pure mapping, detection, segmentation, VQA abd remote sensing works are included only when they directly support embodied navigation, benchmark construction, simulator development, or world-model training.
@@ -33,6 +33,7 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 2024-03 | arXiv | World Models for Autonomous Driving: An Initial Survey | [Paper](https://arxiv.org/abs/2403.02622) |
 | 2023-12 | arXiv | Foundation Models in Robotics: Applications, Challenges, and the Future | [Paper](https://arxiv.org/abs/2312.07843) [Repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
 
+<a id="AWM"></a>
 ## Aerial World Models
 
 | Date | Venue | Paper | Links |
@@ -44,7 +45,8 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 2025-09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
 | 2025-07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Code](https://github.com/EmbodiedCity/AirScape.code) [Project](https://embodiedcity.github.io/AirScape/) [Dataset](https://huggingface.co/datasets/EmbodiedCity/AirScape-Dataset) |
 
-## Aerial Navigation
+<a id="AEN"></a>
+## Aerial Embodied Navigation
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
@@ -82,7 +84,7 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 2024-08 | arXiv | AeroVerse Visual Goal Tasks | ImageNav | Visual-goal style navigation tasks for UAV agents | [Paper](https://arxiv.org/abs/2408.15511) |
 | 2023-08 | ICCV | AerialVLN | VLN | City-scale UAV VLN simulator and benchmark | [Code](https://github.com/AirVLN/AirVLN) [Paper](https://arxiv.org/abs/2308.06735) |
 
-### Related Dataset
+## Related Dataset
 
 | Date | Venue | Dataset / Resource | Data Type | Note | Links |
 | --- | --- | --- | --- | --- | --- |
@@ -101,7 +103,7 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 
 ---
 
-## Simulators & Toolchains
+## Simulators
 
 | Tool | Type | Good For | Links |
 | --- | --- | --- | --- |
@@ -112,7 +114,7 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 
 ---
 
-## Workshops & Challenges
+## Workshops
 
 | Year | Event | Topic | Links |
 | --- | --- | --- | --- |
