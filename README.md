@@ -120,8 +120,8 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 24.08 | NeurIPS Datasets and Benchmarks | [UAV3D](https://arxiv.org/abs/2410.11125) | 3D Perception | UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles | [Project](https://huiyegit.github.io/UAV3D_Benchmark/) [Code](https://github.com/huiyegit/UAV3D) |
 | 23.11 | arXiv | [GeoChat Dataset](https://arxiv.org/abs/2311.15826) | Remote Sensing VQA / Reasoning | GeoChat: Grounded Large Vision-Language Model for Remote Sensing | [Code](https://github.com/mbzuai-oryx/geochat) |
 | 21.06 | arXiv | [LoveDA](https://arxiv.org/abs/2110.08733) | Segmentation | LoveDA: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation | [Code](https://github.com/Junjue-Wang/LoveDA) |
-| 20.01 | arXiv | VisDrone | Detection / Tracking | Vision Meets Drones: A Challenge | [Dataset](https://github.com/VisDrone/VisDrone-Dataset) |
-| 19.05 | CVPRW | iSAID | Instance Segmentation | iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images | [Website](https://captain-whu.github.io/iSAID/) |
+| 20.01 | arXiv | [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) | Detection / Tracking | Vision Meets Drones: A Challenge | |
+| 19.05 | CVPRW | [iSAID](https://captain-whu.github.io/iSAID/) | Instance Segmentation | iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images |  |
 | 18.10 | arXiv | [UAVid](https://arxiv.org/abs/1810.10438) | Semantic Segmentation | UAVid: A Semantic Segmentation Dataset for UAV Imagery | [Website](https://uavid.nl/) |
 | 18.04 | ECCV / arXiv | [UAVDT](https://arxiv.org/abs/1804.00518) | Detection / Tracking | The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking |  |
 | 18.02 | arXiv | [xView](https://arxiv.org/abs/1802.07856) | Detection | xView: Objects in Context in Overhead Imagery |  |
