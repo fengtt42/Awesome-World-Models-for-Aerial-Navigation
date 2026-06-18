@@ -58,7 +58,7 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 | 26.05 | arXiv | WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2605.15964) [Project](https://embodiedcity.github.io/WorldVLN/) |
 | 25.12 | arXiv | Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space | [Paper](https://arxiv.org/abs/2512.21887) |
 | 25.09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
-| 25.07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Code](https://github.com/EmbodiedCity/AirScape.code) [Project](https://embodiedcity.github.io/AirScape/) [Dataset](https://huggingface.co/datasets/EmbodiedCity/AirScape-Dataset) |
+| 25.07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Project](https://embodiedcity.github.io/AirScape/) |
 
 <a id="AEN"></a>
 ## Aerial Embodied Navigation
