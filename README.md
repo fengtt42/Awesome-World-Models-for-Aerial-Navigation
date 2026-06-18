@@ -37,72 +37,75 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
-| 2026-04 | arXiv | Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models | [Paper](https://arxiv.org/abs/2604.07705) |
-| 2025-02 | arXiv | The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey | [Paper](https://arxiv.org/abs/2502.10498) [Repo](https://github.com/LMD0311/Awesome-World-Model) |
-| 2024-03 | arXiv | World Models for Autonomous Driving: An Initial Survey | [Paper](https://arxiv.org/abs/2403.02622) |
-| 2023-12 | arXiv | Foundation Models in Robotics: Applications, Challenges, and the Future | [Paper](https://arxiv.org/abs/2312.07843) [Repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
+| 26.04 | arXiv | Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models | [Paper](https://arxiv.org/abs/2604.07705) |
+| 25.02 | arXiv | The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey | [Paper](https://arxiv.org/abs/2502.10498) [Repo](https://github.com/LMD0311/Awesome-World-Model) |
+| 24.03 | arXiv | World Models for Autonomous Driving: An Initial Survey | [Paper](https://arxiv.org/abs/2403.02622) |
+| 23.12 | arXiv | Foundation Models in Robotics: Applications, Challenges, and the Future | [Paper](https://arxiv.org/abs/2312.07843) [Repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) |
 
 <a id="AWM"></a>
 ## Aerial World Models
 
+
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
-| 2026-06 | arXiv | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | [Paper](https://arxiv.org/abs/2606.04534) |
-| 2026-06 | arXiv | AirDreamer: Generalist Drone Navigation with World Models | [Paper](https://arxiv.org/abs/2606.03252) |
-| 2026-06 | arXiv | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | [Paper](https://arxiv.org/abs/2606.01205) |
-| 2026-06 | arXiv | WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation | [Paper](https://arxiv.org/abs/2606.06147) |
-| 2026-05 | arXiv | DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking | [Paper](https://arxiv.org/abs/2605.17451) |
-| 2026-05 | arXiv | Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls | [Paper](https://arxiv.org/abs/2605.19728) |
-| 2026-05 | arXiv | FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model | [Paper](https://arxiv.org/abs/2605.19600) |
-| 2026-05 | arXiv | WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2605.15964) [Project](https://embodiedcity.github.io/WorldVLN/) |
-| 2025-12 | arXiv | Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space | [Paper](https://arxiv.org/abs/2512.21887) |
-| 2025-09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
-| 2025-07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Code](https://github.com/EmbodiedCity/AirScape.code) [Project](https://embodiedcity.github.io/AirScape/) [Dataset](https://huggingface.co/datasets/EmbodiedCity/AirScape-Dataset) |
+| 26.06 | arXiv | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | [Paper](https://arxiv.org/abs/2606.04534) |
+| 26.06 | arXiv | AirDreamer: Generalist Drone Navigation with World Models | [Paper](https://arxiv.org/abs/2606.03252) |
+| 26.06 | arXiv | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | [Paper](https://arxiv.org/abs/2606.01205) |
+| 26.06 | arXiv | WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation | [Paper](https://arxiv.org/abs/2606.06147) |
+| 26.05 | arXiv | DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking | [Paper](https://arxiv.org/abs/2605.17451) |
+| 26.05 | arXiv | Aero-World: Action-Conditioned Aerial Video Generation from Inertial Controls | [Paper](https://arxiv.org/abs/2605.19728) |
+| 26.05 | arXiv | FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model | [Paper](https://arxiv.org/abs/2605.19600) |
+| 26.05 | arXiv | WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2605.15964) [Project](https://embodiedcity.github.io/WorldVLN/) |
+| 25.12 | arXiv | Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space | [Paper](https://arxiv.org/abs/2512.21887) |
+| 25.09 | arXiv | FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video | [Paper](https://arxiv.org/abs/2509.14082) |
+| 25.07 | ACM MM | AirScape: An Aerial Generative World Model with Motion Controllability | [Paper](https://arxiv.org/abs/2507.08885) [Code](https://github.com/EmbodiedCity/AirScape.code) [Project](https://embodiedcity.github.io/AirScape/) [Dataset](https://huggingface.co/datasets/EmbodiedCity/AirScape-Dataset) |
 
 <a id="AEN"></a>
 ## Aerial Embodied Navigation
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
-| 2026-05 | arXiv | ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue | [Paper](https://arxiv.org/abs/2605.01371) [Project](https://4amgodvzx.github.io/ESAR.github.io/) |
-| 2026-03 | arXiv | UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding | [Paper](https://arxiv.org/abs/2603.14336) [Project](https://UAVBench.github.io/) |
-| 2026-02 | arXiv | APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation | [Paper](https://arxiv.org/abs/2602.00551) [Code](https://github.com/4amGodvzx/apex) |
-| 2026-01 | arXiv | AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions | [Paper](https://arxiv.org/abs/2601.03707) |
-| 2025-12 | arXiv | MM-UAVBench: How Well Do Multimodal Large Language Models See, Think, and Plan in Low-Altitude UAV Scenarios? | [Paper](https://arxiv.org/abs/2512.23219) |
-| 2025-11 | arXiv | OpenVLN: Open-world aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2511.06182) |
-| 2025-11 | arXiv | UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios | [Paper](https://arxiv.org/abs/2511.11252) [Code](https://github.com/maferrag/UAVBench) |
-| 2025-11 | arXiv | AirCopBench: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning | [Paper](https://arxiv.org/abs/2511.11025) |
-| 2025-08 | arXiv | UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents | [Paper](https://arxiv.org/abs/2508.00288) |
-| 2025-07 | arXiv | RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning | [Paper](https://arxiv.org/abs/2507.20776) |
-| 2025-06 | arXiv | Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding | [Paper](https://arxiv.org/abs/2506.10756) |
-| 2025-05 | arXiv | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs | [Paper](https://arxiv.org/abs/2505.03460) |
-| 2025-04 | arXiv | UAV-VLN: End-to-End Vision Language guided Navigation for UAVs | [Paper](https://arxiv.org/abs/2504.21432) |
-| 2024-11 | arXiv | NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation | [Paper](https://arxiv.org/abs/2411.08579) |
-| 2024-08 | arXiv | AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models | [Paper](https://arxiv.org/abs/2408.15511) |
-| 2023-11 | arXiv | GeoChat: Grounded Large Vision-Language Model for Remote Sensing | [Paper](https://arxiv.org/abs/2311.15826) [Code](https://github.com/mbzuai-oryx/geochat) |
-| 2023-08 | ICCV | AerialVLN: Vision-and-Language Navigation for UAVs | [Paper](https://arxiv.org/abs/2308.06735) [Code](https://github.com/AirVLN/AirVLN) |
+| 26.05 | arXiv | ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue | [Paper](https://arxiv.org/abs/2605.01371) [Project](https://4amgodvzx.github.io/ESAR.github.io/) |
+| 26.03 | arXiv | UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding | [Paper](https://arxiv.org/abs/2603.14336) [Project](https://UAVBench.github.io/) |
+| 26.02 | arXiv | APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation | [Paper](https://arxiv.org/abs/2602.00551) [Code](https://github.com/4amGodvzx/apex) |
+| 26.01 | arXiv | AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions | [Paper](https://arxiv.org/abs/2601.03707) |
+| 25.12 | arXiv | MM-UAVBench: How Well Do Multimodal Large Language Models See, Think, and Plan in Low-Altitude UAV Scenarios? | [Paper](https://arxiv.org/abs/2512.23219) |
+| 25.11 | arXiv | OpenVLN: Open-world aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2511.06182) |
+| 25.11 | arXiv | UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios | [Paper](https://arxiv.org/abs/2511.11252) [Code](https://github.com/maferrag/UAVBench) |
+| 25.11 | arXiv | AirCopBench: A Benchmark for Multi-drone Collaborative Embodied Perception and Reasoning | [Paper](https://arxiv.org/abs/2511.11025) |
+| 25.08 | arXiv | UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents | [Paper](https://arxiv.org/abs/2508.00288) |
+| 25.07 | arXiv | RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning | [Paper](https://arxiv.org/abs/2507.20776) |
+| 25.06 | arXiv | Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding | [Paper](https://arxiv.org/abs/2506.10756) |
+| 25.05 | arXiv | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs | [Paper](https://arxiv.org/abs/2505.03460) |
+| 25.04 | arXiv | UAV-VLN: End-to-End Vision Language guided Navigation for UAVs | [Paper](https://arxiv.org/abs/2504.21432) |
+| 24.11 | arXiv | NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation | [Paper](https://arxiv.org/abs/2411.08579) |
+| 24.08 | arXiv | AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models | [Paper](https://arxiv.org/abs/2408.15511) |
+| 23.11 | arXiv | GeoChat: Grounded Large Vision-Language Model for Remote Sensing | [Paper](https://arxiv.org/abs/2311.15826) [Code](https://github.com/mbzuai-oryx/geochat) |
+| 23.08 | ICCV | AerialVLN: Vision-and-Language Navigation for UAVs | [Paper](https://arxiv.org/abs/2308.06735) [Code](https://github.com/AirVLN/AirVLN) |
+
 
 
 ## Navigation Datasets & Benchmarks
 
 | Date | Venue | Data & Bench | Task | Note | Links |
 | --- | --- | --- | --- | --- | --- |
-| 2026-05 | arXiv | ESARBench | ObjectNav | ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue | [Paper](https://arxiv.org/abs/2605.01371) [Project](https://4amgodvzx.github.io/ESAR.github.io/) |
-| 2026-02 | arXiv | APEX | ObjectNav | APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation | [Paper](https://arxiv.org/abs/2602.00551) [Code](https://github.com/4amGodvzx/apex) |
-| 2026-02 | AAAI | U2UData+ | ObjectNav | U2UData+: A Scalable Swarm UAVs Autonomous Flight Dataset for Embodied Long-horizon Tasks | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37158) [Project](https://fengtt42.github.io/U2UData-2/) [Code](https://github.com/fengtt42/U2UData-2) [Dataset](https://fengtt42.github.io/U2UData-2/) |
-| 2026-01 | arXiv | AirNav | VLN | AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions | [Paper](https://arxiv.org/abs/2601.03707) |
-| 2025-11 | arXiv | OpenVLN | VLN | OpenVLN: Open-world Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2511.06182) |
-| 2025-08 | ACM MM | UAV-ON | ObjectNav | UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents | [Paper](https://arxiv.org/abs/2508.00288) |
-| 2025-05 | arXiv | LogisticsVLN | VLN | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs | [Paper](https://arxiv.org/abs/2505.03460) |
-| 2025-05 | arXiv | CityAVOS | ObjectNav | CityAVOS: Towards Autonomous UAV Visual Object Search in City Space | [Paper](https://arxiv.org/abs/2505.08765) |
-| 2025-04 | arXiv | UAV-VLN | VLN | UAV-VLN: End-to-End Vision Language Guided Navigation for UAVs | [Paper](https://arxiv.org/abs/2504.21432) |
-| 2025-02 | arXiv | OpenFly | VLN | OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation | [Paper](https://arxiv.org/abs/2502.18041) [Project](https://shailab-ipec.github.io/openfly/) [Code](https://github.com/Eziotic/OpenFly) |
-| 2025 | ICCV | CityNav | VLN | CityNav: A Large-Scale Dataset for Real-World Aerial Navigation | [Paper](https://arxiv.org/abs/2406.14240) [Project](https://water-cookie.github.io/city-nav-proj/) [Code](https://github.com/water-cookie/citynav-arxiv) |
-| 2024-10 | ICLR | OpenUAV | ObjectNav / VLN | Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology | [Paper](https://arxiv.org/abs/2410.07087) [Project](https://prince687028.github.io/OpenUAV/) [Code](https://github.com/buaa-colalab/TravelUAV) |
-| 2024-08 | ACM MM | U2UData | ObjectNav | U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight | [Paper](https://arxiv.org/abs/2408.00606) [ACM](https://dl.acm.org/doi/10.1145/3664647.3681151) [Code](https://github.com/fengtt42/U2UData) [Dataset](https://github.com/fengtt42/U2UData) |
-| 2024-08 | arXiv | AeroVerse | PN/IN/VLN | AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models | [Paper](https://arxiv.org/abs/2408.15511) |
-| 2023-08 | ICCV | AerialVLN | VLN | AerialVLN: Vision-and-Language Navigation for UAVs | [Paper](https://arxiv.org/abs/2308.06735) [Code](https://github.com/AirVLN/AirVLN) [Dataset](https://github.com/AirVLN/AirVLN) |
-| 2020-10 | ACM MM | University-1652 | ImageNav | University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413896) [Code](https://github.com/layumi/University1652-Baseline) [Dataset](https://github.com/layumi/University1652-Baseline) |
+| 26.05 | arXiv | [ESARBench](https://arxiv.org/abs/2605.01371) | ObjectNav | ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue | [Project](https://4amgodvzx.github.io/ESAR.github.io/) |
+| 26.02 | arXiv | [APEX](https://arxiv.org/abs/2602.00551) | ObjectNav | APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation | [Code](https://github.com/4amGodvzx/apex) |
+| 26.02 | AAAI | [U2UData+](https://ojs.aaai.org/index.php/AAAI/article/view/37158) | ObjectNav | U2UData+: A Scalable Swarm UAVs Autonomous Flight Dataset for Embodied Long-horizon Tasks | [Project](https://fengtt42.github.io/U2UData-2/) [Code](https://github.com/fengtt42/U2UData-2) [Dataset](https://fengtt42.github.io/U2UData-2/) |
+| 26.01 | arXiv | [AirNav](https://arxiv.org/abs/2601.03707) | VLN | AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions |  |
+| 25.12 | arXiv | [OpenVLN](https://arxiv.org/abs/2511.06182) | VLN | OpenVLN: Open-world Aerial Vision-Language Navigation |  |
+| 25.08 | ACM MM | [UAV-ON](https://arxiv.org/abs/2508.00288) | ObjectNav | UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents |  |
+| 25.05 | arXiv | [LogisticsVLN](https://arxiv.org/abs/2505.03460) | VLN | LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs |  |
+| 25.05 | arXiv | [CityAVOS](https://arxiv.org/abs/2505.08765) | ObjectNav | CityAVOS: Towards Autonomous UAV Visual Object Search in City Space |  |
+| 25.04 | arXiv | [UAV-VLN](https://arxiv.org/abs/2504.21432) | VLN | UAV-VLN: End-to-End Vision Language Guided Navigation for UAVs |  |
+| 25.02 | arXiv | [OpenFly](https://arxiv.org/abs/2502.18041) | VLN | OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation | [Project](https://shailab-ipec.github.io/openfly/) [Code](https://github.com/Eziotic/OpenFly) |
+| 25 | ICCV | [CityNav](https://arxiv.org/abs/2406.14240) | VLN | CityNav: A Large-Scale Dataset for Real-World Aerial Navigation | [Project](https://water-cookie.github.io/city-nav-proj/) [Code](https://github.com/water-cookie/citynav-arxiv) |
+| 24.10 | ICLR | [OpenUAV](https://arxiv.org/abs/2410.07087) | ObjectNav / VLN | Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology | [Project](https://prince687028.github.io/OpenUAV/) [Code](https://github.com/buaa-colalab/TravelUAV) |
+| 24.08 | ACM MM | [U2UData](https://arxiv.org/abs/2408.00606) | ObjectNav | U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight | [ACM](https://dl.acm.org/doi/10.1145/3664647.3681151) [Code](https://github.com/fengtt42/U2UData) [Dataset](https://github.com/fengtt42/U2UData) |
+| 24.08 | arXiv | [AeroVerse](https://arxiv.org/abs/2408.15511) | PN / IN / VLN | AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models |  |
+| 23.08 | ICCV | [AerialVLN](https://arxiv.org/abs/2308.06735) | VLN | AerialVLN: Vision-and-Language Navigation for UAVs | [Code](https://github.com/AirVLN/AirVLN) [Dataset](https://github.com/AirVLN/AirVLN) |
+| 20.10 | ACM MM | [University-1652](https://dl.acm.org/doi/10.1145/3394171.3413896) | ImageNav | University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization | [Code](https://github.com/layumi/University1652-Baseline) [Dataset](https://github.com/layumi/University1652-Baseline) |
+
 
 ## Aerial Other Dataset
 
