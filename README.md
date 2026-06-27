@@ -48,6 +48,8 @@ This repository prioritizes **aerial world models** and **UAV embodied navigatio
 
 | Date | Venue | Paper | Links |
 | --- | --- | --- | --- |
+| 26.06 | arXiv | SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors | [Paper](https://arxiv.org/pdf/2605.17451) |
+| 26.06 | arXiv | Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation | [Paper](https://arxiv.org/pdf/2606.05015) |
 | 26.06 | arXiv | MAD: Mapping-Aware World Models for Agile Quadrotor Flight | [Paper](https://arxiv.org/abs/2606.04534) |
 | 26.06 | arXiv | AirDreamer: Generalist Drone Navigation with World Models | [Paper](https://arxiv.org/abs/2606.03252) |
 | 26.06 | arXiv | ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning | [Paper](https://arxiv.org/abs/2606.01205) |
